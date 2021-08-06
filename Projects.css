@@ -1,6 +1,6 @@
 .mediaViewInfo {
-	--web-view-name: amirulhaziqharun-Projects;
-	--web-view-id: amirulhaziqharun-Projects;
+	--web-view-name: Projects;
+	--web-view-id: Projects;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
 	--web-enable-scale-up: true;
@@ -10,7 +10,7 @@
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: amirulhaziqharun-Projects;
+	--web-view-ids: Projects;
 }
 * {
 	margin: 0;
@@ -18,14 +18,14 @@
 	box-sizing: border-box;
 	border: none;
 }
-#amirulhaziqharun-Projects {
+#Projects {
 	position: absolute;
 	width: 1920px;
 	height: 7747px;
 	background-color: rgba(248,229,229,1);
 	overflow: hidden;
-	--web-view-name: amirulhaziqharun-Projects;
-	--web-view-id: amirulhaziqharun-Projects;
+	--web-view-name: Projects;
+	--web-view-id: Projects;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
 	--web-enable-scale-up: true;
@@ -509,7 +509,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: amirulhaziqharun_Home.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Quicksand;
@@ -1227,7 +1227,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: amirulhaziqharun_Experience_Education.html;
+	--web-action-target: Experience.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Quicksand;
@@ -1245,7 +1245,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: amirulhaziqharun_Skills.html;
+	--web-action-target: Skills.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Quicksand;
@@ -1277,7 +1277,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: amirulhaziqharun_Contact.html;
+	--web-action-target: Contact.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Quicksand;

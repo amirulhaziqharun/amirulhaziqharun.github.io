@@ -1,6 +1,6 @@
 .mediaViewInfo {
-	--web-view-name: amirulhaziqharun-Home;
-	--web-view-id: amirulhaziqharun-Home;
+	--web-view-name: index;
+	--web-view-id: index;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
 	--web-enable-scale-up: true;
@@ -10,7 +10,7 @@
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: amirulhaziqharun-Home;
+	--web-view-ids: index;
 }
 * {
 	margin: 0;
@@ -18,14 +18,14 @@
 	box-sizing: border-box;
 	border: none;
 }
-#amirulhaziqharun-Home {
+#index {
 	position: absolute;
 	width: 1920px;
 	height: 3751px;
 	background-color: rgba(248,229,229,1);
 	overflow: hidden;
-	--web-view-name: amirulhaziqharun-Home;
-	--web-view-id: amirulhaziqharun-Home;
+	--web-view-name: index;
+	--web-view-id: index;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
 	--web-enable-scale-up: true;
@@ -454,7 +454,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: amirulhaziqharun_Experience_Education.html;
+	--web-action-target: Experience.html;
 	cursor: pointer;
 }
 #Group_74 {
@@ -558,7 +558,7 @@
 	overflow: visible;
 	--web-animation: fadein 1s ease-out;
 	--web-action-type: page;
-	--web-action-target: amirulhaziqharun_Projects.html;
+	--web-action-target: Projects.html;
 	cursor: pointer;
 }
 #My_Projects {
@@ -883,7 +883,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 1s ease-out;
 	--web-action-type: page;
-	--web-action-target: amirulhaziqharun_Experience_Education.html;
+	--web-action-target: Experience.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Quicksand;
@@ -901,7 +901,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 1s ease-out;
 	--web-action-type: page;
-	--web-action-target: amirulhaziqharun_Skills.html;
+	--web-action-target: Skills.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Quicksand;
@@ -919,7 +919,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 1s ease-out;
 	--web-action-type: page;
-	--web-action-target: amirulhaziqharun_Projects.html;
+	--web-action-target: Projects.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Quicksand;
@@ -937,7 +937,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 1s ease-out;
 	--web-action-type: page;
-	--web-action-target: amirulhaziqharun_Contact.html;
+	--web-action-target: Contact.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Quicksand;

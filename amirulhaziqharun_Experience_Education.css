@@ -1,0 +1,930 @@
+.mediaViewInfo {
+	--web-view-name: amirulhaziqharun-Experience&Education;
+	--web-view-id: amirulhaziqharun-ExperienceEducation;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: amirulhaziqharun-ExperienceEducation;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#amirulhaziqharun-ExperienceEducation {
+	position: absolute;
+	width: 1920px;
+	height: 3866px;
+	background-color: rgba(248,229,229,1);
+	overflow: hidden;
+	--web-view-name: amirulhaziqharun-Experience&Education;
+	--web-view-id: amirulhaziqharun-ExperienceEducation;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_87 {
+	fill: rgba(195,158,160,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_87 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 165px;
+	left: 0px;
+	top: 0px;
+}
+#amirulhaziqharun_ch {
+	left: 59px;
+	top: 63px;
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: amirulhaziqharun_Home.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(246,246,248,1);
+}
+#Ellipse_15 {
+	opacity: 0.1;
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_15 {
+	position: absolute;
+	overflow: visible;
+	width: 309.197px;
+	height: 53.284px;
+	left: 240.719px;
+	top: 1796.502px;
+}
+#Ellipse_16 {
+	opacity: 0.1;
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_16 {
+	position: absolute;
+	overflow: visible;
+	width: 313.637px;
+	height: 54.049px;
+	left: 1399.486px;
+	top: 2901.391px;
+}
+#blob_3_ck {
+	fill: rgba(195,158,160,1);
+}
+.blob_3_ck {
+	overflow: visible;
+	position: absolute;
+	width: 272.301px;
+	height: 178.898px;
+	transform: matrix(1,0,0,1,257.503,1639.102) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#blob_3_cl {
+	fill: rgba(195,158,160,1);
+}
+.blob_3_cl {
+	overflow: visible;
+	position: absolute;
+	width: 276.211px;
+	height: 181.467px;
+	transform: matrix(1,0,0,1,1422.8623,2754.5604) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_17 {
+	opacity: 0.1;
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_17 {
+	position: absolute;
+	overflow: visible;
+	width: 412px;
+	height: 71px;
+	left: 1108.75px;
+	top: 765.185px;
+}
+#EXPERIENCE__EDUCATION {
+	left: 459px;
+	top: 483.197px;
+	position: absolute;
+	overflow: visible;
+	width: 371px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	color: rgba(0,0,0,1);
+}
+#my_education_background {
+	left: 1466.501px;
+	top: 2813.085px;
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#ID2020 {
+	left: 676.501px;
+	top: 1396.648px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#ID2021 {
+	left: 1146.553px;
+	top: 2527.939px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 41px;
+	color: rgba(0,0,0,1);
+}
+#ID2017 {
+	left: 1146.553px;
+	top: 2818.939px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 41px;
+	color: rgba(0,0,0,1);
+}
+#ID2015 {
+	left: 1146.553px;
+	top: 3121.939px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 41px;
+	color: rgba(0,0,0,1);
+}
+#ID2019 {
+	left: 682.501px;
+	top: 2057.648px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#EPSON_PRECISION_Johor {
+	left: 1159.501px;
+	top: 1377.648px;
+	position: absolute;
+	overflow: visible;
+	width: 357px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+}
+#Line_24 {
+	fill: transparent;
+	stroke: rgba(195,158,160,1);
+	stroke-width: 20px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_24 {
+	overflow: visible;
+	position: absolute;
+	width: 308px;
+	height: 20px;
+	left: 1211.75px;
+	top: 890.238px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_18 {
+	fill: rgba(195,158,160,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_18 {
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	height: 25px;
+	left: 1159.25px;
+	top: 877.738px;
+}
+#Ellipse_19 {
+	fill: rgba(195,158,160,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_19 {
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	height: 25px;
+	left: 1121.25px;
+	top: 877.738px;
+}
+#Ellipse_20 {
+	fill: rgba(195,158,160,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_20 {
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	height: 25px;
+	left: 1083.25px;
+	top: 877.738px;
+}
+#journey_of_all_my_EXPERIENCES_ {
+	left: 466px;
+	top: 643.447px;
+	position: absolute;
+	overflow: visible;
+	width: 492px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	text-transform: lowercase;
+}
+#IT_Support_Internship__Mac_202 {
+	left: 1159.501px;
+	top: 1418.648px;
+	position: absolute;
+	overflow: visible;
+	width: 498px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Group_90 {
+	position: absolute;
+	width: 279px;
+	height: 1px;
+	left: 614px;
+	top: 771.947px;
+	overflow: visible;
+}
+#Line_5_c {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5_c {
+	overflow: visible;
+	position: absolute;
+	width: 173px;
+	height: 5px;
+	left: 111px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_6_c {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6_c {
+	overflow: visible;
+	position: absolute;
+	width: 78px;
+	height: 5px;
+	left: 25px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_7_c {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7_c {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 5px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Orange_Media_Group__Industrial {
+	left: 1177.501px;
+	top: 2020.648px;
+	position: absolute;
+	overflow: visible;
+	width: 308px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+}
+#Universiti_Malaysia_Sarawak {
+	left: 591.054px;
+	top: 2479px;
+	position: absolute;
+	overflow: visible;
+	width: 387px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Universiti_Malaysia_Sarawak_c {
+	left: 591.054px;
+	top: 2759px;
+	position: absolute;
+	overflow: visible;
+	width: 387px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Sekolah_Menengah_Kebangsaan_Ag {
+	left: 591.054px;
+	top: 3018px;
+	position: absolute;
+	overflow: visible;
+	width: 434px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+}
+#IT_Assistant_Part-Time__June_2 {
+	left: 1177.501px;
+	top: 2097.648px;
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Bachelor_of_Computer_Science_w {
+	left: 591.054px;
+	top: 2518px;
+	position: absolute;
+	overflow: visible;
+	width: 423px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Foundation_for_Physical_Scienc {
+	left: 591.054px;
+	top: 2797px;
+	position: absolute;
+	overflow: visible;
+	width: 306px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Secondary_School_2011-2015_-_G {
+	left: 591.054px;
+	top: 3102px;
+	position: absolute;
+	overflow: visible;
+	width: 339px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Achievements_and_Awards_-_Dean {
+	left: 591.054px;
+	top: 2596px;
+	position: absolute;
+	overflow: visible;
+	width: 248px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Achievements_and_Awards_-_Comm {
+	left: 591.054px;
+	top: 2875px;
+	position: absolute;
+	overflow: visible;
+	width: 314px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Achievements_and_Awards_-_Exco {
+	left: 591.054px;
+	top: 3180px;
+	position: absolute;
+	overflow: visible;
+	width: 387px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Group_91 {
+	position: absolute;
+	width: 273px;
+	height: 135px;
+	left: 886.501px;
+	top: 2020.648px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 273px;
+	height: 135px;
+	left: 0px;
+	top: 0px;
+}
+#IGA_logo_aka_orange_media {
+	position: absolute;
+	width: 225px;
+	height: 89px;
+	left: 24px;
+	top: 23px;
+	overflow: visible;
+}
+#Tagline_Logo {
+	position: absolute;
+	width: 250.817px;
+	height: 108.814px;
+	left: 887.173px;
+	top: 1367.449px;
+	overflow: visible;
+}
+#Line_25 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_25 {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 664.616px;
+	left: 813.206px;
+	top: 1418.46px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_26 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_26 {
+	overflow: visible;
+	position: absolute;
+	width: 5px;
+	height: 594.528px;
+	left: 1096.621px;
+	top: 2554.546px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_27 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_27 {
+	overflow: visible;
+	position: absolute;
+	width: 48.442px;
+	height: 5px;
+	left: 791.186px;
+	top: 1419.928px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_28 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_28 {
+	overflow: visible;
+	position: absolute;
+	width: 48.442px;
+	height: 5px;
+	left: 791.186px;
+	top: 2083.076px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#NoPath {
+	position: absolute;
+	width: 279.911px;
+	height: 185.441px;
+	left: 291.946px;
+	top: 2470.886px;
+	overflow: visible;
+}
+#unimas2 {
+	position: absolute;
+	width: 280px;
+	height: 210px;
+	left: 292.054px;
+	top: 2750px;
+	overflow: visible;
+}
+#smkajb {
+	position: absolute;
+	width: 280px;
+	height: 210px;
+	left: 292.054px;
+	top: 3053px;
+	overflow: visible;
+}
+#Rectangle_86 {
+	fill: rgba(195,158,160,1);
+}
+.Rectangle_86 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 242px;
+	left: -3px;
+	top: 3635px;
+}
+#ID2021__amirulhaziqharun__desi_ds {
+	left: 704px;
+	top: 3742px;
+	position: absolute;
+	overflow: visible;
+	width: 507px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#Group_92 {
+	position: absolute;
+	width: 305px;
+	height: 279px;
+	left: 1159.501px;
+	top: 1598.648px;
+	overflow: visible;
+}
+#Image_1 {
+	position: absolute;
+	width: 172px;
+	height: 130px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Image_2 {
+	position: absolute;
+	width: 97px;
+	height: 130px;
+	left: 208px;
+	top: 0px;
+	overflow: visible;
+}
+#Image_3 {
+	position: absolute;
+	width: 100px;
+	height: 133px;
+	left: 0px;
+	top: 146px;
+	overflow: visible;
+}
+#Image_4 {
+	position: absolute;
+	width: 172px;
+	height: 129px;
+	left: 133px;
+	top: 146px;
+	overflow: visible;
+}
+#Line_29 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_29 {
+	overflow: visible;
+	position: absolute;
+	width: 49.795px;
+	height: 5px;
+	left: 1073.987px;
+	top: 2554.546px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_30 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_30 {
+	overflow: visible;
+	position: absolute;
+	width: 49.795px;
+	height: 5px;
+	left: 1073.987px;
+	top: 2845.397px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_31 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_31 {
+	overflow: visible;
+	position: absolute;
+	width: 49.795px;
+	height: 5px;
+	left: 1073.987px;
+	top: 3148.697px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_4 {
+	position: absolute;
+	width: 382.324px;
+	height: 453.529px;
+	left: 1083.25px;
+	top: 339.656px;
+	overflow: visible;
+}
+#my_experience {
+	left: 299.664px;
+	top: 1710.551px;
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(255,255,255,1);
+}
+#blob_3_d {
+	fill: rgba(250,37,93,1);
+}
+.blob_3_d {
+	overflow: visible;
+	position: absolute;
+	width: 201.482px;
+	height: 76.24px;
+	transform: matrix(1,0,0,1,1030.0368,41.3799) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Group_144 {
+	position: absolute;
+	width: 694.034px;
+	height: 34px;
+	left: 1045.466px;
+	top: 65px;
+	overflow: visible;
+}
+#EXPERIENCE_d {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(248,229,229,1);
+}
+#SKILL_d {
+	left: 226.345px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: amirulhaziqharun_Skills.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(248,229,229,1);
+}
+#PROJECTS {
+	left: 365.689px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: amirulhaziqharun_Projects.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(248,229,229,1);
+}
+#CONTACT_d {
+	left: 570.034px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: amirulhaziqharun_Contact.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(248,229,229,1);
+}

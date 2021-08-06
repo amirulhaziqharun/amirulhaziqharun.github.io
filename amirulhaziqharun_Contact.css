@@ -1,0 +1,401 @@
+.mediaViewInfo {
+	--web-view-name: amirulhaziqharun-Contact;
+	--web-view-id: amirulhaziqharun-Contact;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: amirulhaziqharun-Contact;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#amirulhaziqharun-Contact {
+	position: absolute;
+	width: 1920px;
+	height: 1197px;
+	background-color: rgba(248,229,229,1);
+	overflow: hidden;
+	--web-view-name: amirulhaziqharun-Contact;
+	--web-view-id: amirulhaziqharun-Contact;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_100 {
+	fill: rgba(195,158,160,1);
+}
+.Rectangle_100 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 165px;
+	left: 0px;
+	top: 1032px;
+}
+#CONTACT_sb {
+	left: 531px;
+	top: 475.25px;
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	color: rgba(0,0,0,1);
+}
+#iamhzqhrn {
+	left: 588.5px;
+	top: 626.25px;
+	position: absolute;
+	overflow: visible;
+	width: 130px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#amirulhaziqharun_sd {
+	left: 588.5px;
+	top: 694px;
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#ID6010-267_6477 {
+	left: 891.5px;
+	top: 694px;
+	position: absolute;
+	overflow: visible;
+	width: 156px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#amirulhaziqharun_sf {
+	left: 891.5px;
+	top: 625.25px;
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#amirulhaziqharunyahoocommy {
+	left: 587px;
+	top: 567px;
+	position: absolute;
+	overflow: visible;
+	width: 349px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Group_2_sh {
+	position: absolute;
+	width: 279px;
+	height: 1px;
+	left: 792.5px;
+	top: 771px;
+	overflow: visible;
+}
+#Line_5_si {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5_si {
+	overflow: visible;
+	position: absolute;
+	width: 173px;
+	height: 5px;
+	left: 111px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_6_sj {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6_sj {
+	overflow: visible;
+	position: absolute;
+	width: 78px;
+	height: 5px;
+	left: 25px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_7_sk {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7_sk {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 5px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID2021__amirulhaziqharun__desi_sl {
+	left: 707px;
+	top: 1100px;
+	position: absolute;
+	overflow: visible;
+	width: 507px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#email {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 531px;
+	top: 563px;
+	overflow: visible;
+}
+#twitter {
+	position: absolute;
+	width: 46px;
+	height: 46px;
+	left: 531px;
+	top: 622px;
+	overflow: visible;
+}
+#facebook {
+	position: absolute;
+	width: 43px;
+	height: 43px;
+	left: 832px;
+	top: 620px;
+	overflow: visible;
+}
+#instagram {
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 531px;
+	top: 687px;
+	overflow: visible;
+}
+#whatsapp {
+	position: absolute;
+	width: 43px;
+	height: 43px;
+	left: 834px;
+	top: 689px;
+	overflow: visible;
+}
+#Rectangle_99 {
+	fill: rgba(195,158,160,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_99 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 165px;
+	left: -1px;
+	top: 0px;
+}
+#amirulhaziqharun_ss {
+	left: 58px;
+	top: 63px;
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: amirulhaziqharun_Home.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(246,246,248,1);
+}
+#Mask_Group_15 {
+	position: absolute;
+	width: 455px;
+	height: 454.582px;
+	left: 1147px;
+	top: 371.209px;
+	overflow: visible;
+}
+#Ellipse_34 {
+	opacity: 0.1;
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_34 {
+	position: absolute;
+	overflow: visible;
+	width: 412px;
+	height: 71px;
+	left: 1190px;
+	top: 790.291px;
+}
+#blob_3_sv {
+	fill: rgba(250,37,93,1);
+}
+.blob_3_sv {
+	overflow: visible;
+	position: absolute;
+	width: 174.988px;
+	height: 76.24px;
+	transform: matrix(1,0,0,1,1601.9997,41.3799) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Group_147 {
+	position: absolute;
+	width: 694.034px;
+	height: 34px;
+	left: 1056px;
+	top: 65px;
+	overflow: visible;
+}
+#EXPERIENCE_sx {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: amirulhaziqharun_Experience_Education.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(248,229,229,1);
+}
+#SKILL_sy {
+	left: 226.345px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: amirulhaziqharun_Skills.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(248,229,229,1);
+}
+#PROJECTS_sz {
+	left: 365.689px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: amirulhaziqharun_Projects.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(248,229,229,1);
+}
+#CONTACT_s {
+	left: 570.034px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Quicksand;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(248,229,229,1);
+}

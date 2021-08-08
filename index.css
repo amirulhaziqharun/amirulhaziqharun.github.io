@@ -199,12 +199,6 @@
 }
 #Ellipse_1 {
 	fill: rgba(195,158,160,1);
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
 }
 .Ellipse_1 {
 	position: absolute;
@@ -216,12 +210,6 @@
 }
 #Ellipse_2 {
 	fill: rgba(195,158,160,1);
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
 }
 .Ellipse_2 {
 	position: absolute;
@@ -233,12 +221,6 @@
 }
 #Ellipse_3 {
 	fill: rgba(195,158,160,1);
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
 }
 .Ellipse_3 {
 	position: absolute;

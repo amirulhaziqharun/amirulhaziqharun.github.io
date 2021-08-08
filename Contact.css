@@ -55,15 +55,15 @@
 	left: 0px;
 	top: 1032px;
 }
-#CONTACT_sb {
+#CONTACT_sa {
 	left: 531px;
-	top: 475.25px;
+	top: 474.25px;
 	position: absolute;
 	overflow: visible;
-	width: 219px;
+	width: 254px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Source Sans Pro;
+	font-family: Quicksand;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 55px;
@@ -74,24 +74,24 @@
 	top: 626.25px;
 	position: absolute;
 	overflow: visible;
-	width: 130px;
+	width: 142px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Source Sans Pro;
+	font-family: Quicksand;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 }
-#amirulhaziqharun_sd {
+#amirulhaziqharun_r {
 	left: 588.5px;
 	top: 694px;
 	position: absolute;
 	overflow: visible;
-	width: 181px;
+	width: 195px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Source Sans Pro;
+	font-family: Quicksand;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 24px;
@@ -102,24 +102,24 @@
 	top: 694px;
 	position: absolute;
 	overflow: visible;
-	width: 156px;
+	width: 170px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Source Sans Pro;
+	font-family: Quicksand;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 }
-#amirulhaziqharun_sf {
+#amirulhaziqharun_sa {
 	left: 891.5px;
 	top: 625.25px;
 	position: absolute;
 	overflow: visible;
-	width: 181px;
+	width: 195px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Source Sans Pro;
+	font-family: Quicksand;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 24px;
@@ -130,16 +130,16 @@
 	top: 567px;
 	position: absolute;
 	overflow: visible;
-	width: 349px;
+	width: 382px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Source Sans Pro;
+	font-family: Quicksand;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 }
-#Group_2_sh {
+#Group_2_sc {
 	position: absolute;
 	width: 279px;
 	height: 1px;
@@ -147,7 +147,7 @@
 	top: 771px;
 	overflow: visible;
 }
-#Line_5_si {
+#Line_5_sd {
 	fill: transparent;
 	stroke: rgba(0,0,0,1);
 	stroke-width: 5px;
@@ -156,7 +156,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_5_si {
+.Line_5_sd {
 	overflow: visible;
 	position: absolute;
 	width: 173px;
@@ -165,7 +165,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_6_sj {
+#Line_6_se {
 	fill: transparent;
 	stroke: rgba(0,0,0,1);
 	stroke-width: 5px;
@@ -174,7 +174,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_6_sj {
+.Line_6_se {
 	overflow: visible;
 	position: absolute;
 	width: 78px;
@@ -183,7 +183,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Line_7_sk {
+#Line_7_sf {
 	fill: transparent;
 	stroke: rgba(0,0,0,1);
 	stroke-width: 5px;
@@ -192,7 +192,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_7_sk {
+.Line_7_sf {
 	overflow: visible;
 	position: absolute;
 	width: 14px;
@@ -201,7 +201,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#ID2021__amirulhaziqharun__desi_sl {
+#ID2021__amirulhaziqharun__desi_sg {
 	left: 707px;
 	top: 1100px;
 	position: absolute;
@@ -272,7 +272,7 @@
 	left: -1px;
 	top: 0px;
 }
-#amirulhaziqharun_ss {
+#amirulhaziqharun_sn {
 	left: 58px;
 	top: 63px;
 	position: absolute;
@@ -310,10 +310,10 @@
 	left: 1190px;
 	top: 790.291px;
 }
-#blob_3_sv {
+#blob_3_sq {
 	fill: rgba(250,37,93,1);
 }
-.blob_3_sv {
+.blob_3_sq {
 	overflow: visible;
 	position: absolute;
 	width: 174.988px;
@@ -331,7 +331,7 @@
 	top: 65px;
 	overflow: visible;
 }
-#EXPERIENCE_sx {
+#EXPERIENCE_ss {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -349,7 +349,7 @@
 	font-size: 27px;
 	color: rgba(248,229,229,1);
 }
-#SKILL_sy {
+#SKILL_st {
 	left: 226.345px;
 	top: 0px;
 	position: absolute;
@@ -367,7 +367,7 @@
 	font-size: 27px;
 	color: rgba(248,229,229,1);
 }
-#PROJECTS_sz {
+#PROJECTS_su {
 	left: 365.689px;
 	top: 0px;
 	position: absolute;
@@ -385,7 +385,7 @@
 	font-size: 27px;
 	color: rgba(248,229,229,1);
 }
-#CONTACT_s {
+#CONTACT_sv {
 	left: 570.034px;
 	top: 0px;
 	position: absolute;
